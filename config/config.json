@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "your database username",
+    "password": "your database password",
+    "database": "databaseName_development",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+01:00"
+  },
+  "test": {
+    "username": "your database username",
+    "password": "your database password",
+    "database": "databaseName_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+01:00"
+  },
+  "production": {
+    "username": "your database username",
+    "password": "your database password",
+    "database": "databaseName_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+01:00"
+  }
+}
